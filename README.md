@@ -1,11 +1,19 @@
-# Algorithms, Data Structures & Misc Repository 
+# Algorithms and Data Structures Repository 
 Welcome to my CS Fundamentals repository. 
-- This is a collection of Data Structures & Algorithms and misc topics. 
-- In the future, I am going to add system design and OOP patterns. 
+- This is a collection of Data Structures & Algorithms topics. 
 
 ## How this repository is structured
 I am going through neetcode 250's currated list (150 list completed!) and Codepath's TIP 103x class 2nd pass. 
-Additionally, I will add more helpful algorithms that I see outside these lists (including system design). 
+- I have other repositories that are dedicated to learning OOP, backend, frontend, and misc topics. 
+
+### Topics Covered
+- Dynamic programming 1d [link](./Algorithms/1dDP)
+- Dynamic Programming 2d [link](./Algorithms/2dDP)
+- Arrays
+- 
+
+### Progess Summary
+![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=chrisks1071&theme=dark)
 
 ### Progress on Neetcode 250s map:
 <img width="3428" height="1802" alt="image" src="https://github.com/user-attachments/assets/43eb09ef-1fa2-4222-853b-29e0d439f43b" />
@@ -15,6 +23,3 @@ Additionally, I will add more helpful algorithms that I see outside these lists 
 
 ### Combining TIP 103 & Neetcode 250
 <img width="3456" height="1082" alt="image" src="https://github.com/user-attachments/assets/88822898-fd52-4c3c-9212-c2877819fa5a" />
-
-### All other folders
-Misc topics are added to this repository as well.
