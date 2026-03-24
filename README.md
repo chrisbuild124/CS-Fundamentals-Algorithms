@@ -13,7 +13,7 @@ I am going through neetcode 250's currated list (150 list completed!) and Codepa
 - 
 
 ### Progess Summary
-![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=chrisks1071&theme=dark)
+![LeetCode Stats](https://leetcode-stats-api.onrender.com/chrisks1071)
 
 ### Progress on Neetcode 250s map:
 <img width="3428" height="1802" alt="image" src="https://github.com/user-attachments/assets/43eb09ef-1fa2-4222-853b-29e0d439f43b" />
