@@ -77,6 +77,6 @@ I am going through neetcode 250's currated list (150 list completed!) and Codepa
 ### TIP 103x's class (2nd pass, weeks 7/10 completed)
 <details>
   <summary>Click to expand</summary>
-  <img src="https://github.com/user-attachments/assets/702511c5-dc7c-4f99-a640-2f7eb91cf38f" width="700">
+  <img width="3456" height="1732" alt="image" src="https://github.com/user-attachments/assets/05a8c638-5738-47c1-9f46-1a3b22ade343" />
   <p><em>TIP 103x class progress map, showing week-by-week problem coverage.</em></p>
 </details>
