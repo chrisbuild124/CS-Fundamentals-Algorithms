@@ -1,6 +1,7 @@
 # Traverse a binary search tree with Morris Traversal with O(1) memory and O(1) space complexity
 # This is acoomplished by creating branches between the left right'th most child back to the parent 
-# Leetcode problem for smallest kth that uses this: https://leetcode.com/problems/kth-smallest-element-in-a-bst/ 
+# Note that time will be O(n) for this problem but could be O(h) in some, and space is always O(1)
+# Leetcode problem for smallest kth that uses this: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 # Definition for a binary tree node.
 # class TreeNode:
